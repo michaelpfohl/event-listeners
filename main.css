@@ -1,3 +1,16 @@
 body {
     background: lavender;
 }
+
+.main--container {
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.main--btn {
+    padding: 20px;
+    font-size: 24px;
+    text-align: center;
+    background: lavenderblush;
+}
