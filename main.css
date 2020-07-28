@@ -2,15 +2,11 @@ body {
     background: lavender;
 }
 
-.main--container {
-    display: flex;
-    justify-content: center;
-    margin-top: 40px;
+#instructor-buttons button {
+    margin: 1rem 2rem;
 }
 
-.main--btn {
-    padding: 20px;
-    font-size: 24px;
-    text-align: center;
-    background: lavenderblush;
+.img-container {
+    height: 200px;
+    background-size: cover;
 }
